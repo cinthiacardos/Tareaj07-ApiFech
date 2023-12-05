@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: #FFF59D;
+    
+}
+
+.table {
+    background-color: #FFF59D;
+
+}
+
+.table th {
+    border-bottom: 4px solid black;
+    background-color: #FFF59D;
+}
+
+.avatar-img {
+    max-width: 40px;
+    height: auto;
+    border-radius: 60%;
+}
+
+
